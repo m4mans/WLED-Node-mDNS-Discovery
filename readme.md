@@ -1,5 +1,5 @@
 # WLED Network Controller
-
+![demo](image-1.png)
 A terminal-based Python controller for WLED devices — auto-discovers them on your network via mDNS and gives you full control through the WLED JSON API.
 
 ## Features
